@@ -1,13 +1,10 @@
-# Angular Material Dashboard
+# Angular Material Mapping Dashboard
 
 [![Join the chat at https://gitter.im/flatlogic/angular-material-dashboard](https://badges.gitter.im/flatlogic/angular-material-dashboard.svg)](https://gitter.im/flatlogic/angular-material-dashboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Responsive Angular admin dashboard with material design based on
+Responsive Angular mapping dashboard with material design based on
 [Angular Material](https://github.com/angular/material).
-
-![promo-amd](src/assets/images/promo-amd.png)
-
-Check out [DEMO](http://flatlogic.github.io/angular-material-dashboard/)
+[Angular Material Dashboard](https://github.com/flatlogic/angular-material-dashboard)
 
 ## Getting started
 
@@ -23,7 +20,7 @@ Install dependencies:
 Install gem 'sass'
 
     $ gem install sass
-    
+
 Run development web-server:
 
     $ gulp serve
@@ -33,6 +30,7 @@ Run development web-server:
 * AngularJS
 * Angular UI Router
 * Angular Material
+* Angular Leaflet
 * Sass styles
 * Gulp build
 * Stylish, clean, responsive layout with original design
@@ -48,11 +46,6 @@ UI components built with [Angular Material](https://material.angularjs.org/).
 Design by [flatlogic.com](http://flatlogic.com/)
 
 ## Deploy to Github pages  
-  
+
     $ gulp build
     $ gulp deploy
-
-## Community
-- [Tweet about it](https://twitter.com/intent/tweet?text=Angular%20Material%20Dashboard%20https://github.com/flatlogic/angular-material-dashboard%20via%20@flatlogicinc) to support revolution in classic paid templates market.
-- Follow [@flatlogicinc on Twitter](https://twitter.com/flatlogicinc).
-- Subscribe to Flatlogic newsletter at [flatlogic.com](http://flatlogic.com/)

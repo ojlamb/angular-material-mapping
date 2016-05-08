@@ -1,5 +1,7 @@
-<leaflet width="100%" height="480px"></leaflet>
-<h1>First steps, basic example</h1>
+<div ng-controller="GoogleMapsController">
+    <leaflet lf-center="boulder" layers="layers" markers="markers" height="480px" width="100%"></leaflet>
+</div>
+
 <div layout-gt-md="row">
   <panel-widget flex title="Site visitors" template="app/views/partials/visitors.html" class="fixed-height-widget"></panel-widget>
   <panel-widget flex title="Warnings" template="app/views/partials/warnings.html" class="fixed-height-widget"></panel-widget>
