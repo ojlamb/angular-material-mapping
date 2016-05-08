@@ -1,7 +1,8 @@
 # Angular Material Mapping Dashboard
 
 Responsive Angular mapping dashboard with material design based on
-[Angular Material](https://github.com/angular/material).
+[Angular Material](https://github.com/angular/material)
+and
 [Angular Material Dashboard](https://github.com/flatlogic/angular-material-dashboard)
 
 ## Getting started
