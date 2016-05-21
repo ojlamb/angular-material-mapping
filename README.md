@@ -13,7 +13,7 @@ Clone project:
 
 Install dependencies:
 
-    $ cd angular-material-dashboard
+    $ cd angular-material-mapping
     $ npm install
 
 Install gem 'sass'
