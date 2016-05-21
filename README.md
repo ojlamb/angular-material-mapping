@@ -9,7 +9,7 @@ and
 
 Clone project:
 
-    $ git clone https://github.com/flatlogic/angular-material-dashboard.git
+    $ git clone https://github.com/ojlamb/angular-material-mapping.git
 
 Install dependencies:
 
